@@ -5,16 +5,18 @@
 #define _USE_MATH_DEFINES
 #include <iostream>
 #include "main.h"
+#include <iomanip>
 using namespace std;
 
 int main() {
 
     while (true) {
-        cout << "Which program would you like to run?\n";
 
         string choice;
-        cout << "temp\t temperature program\n";
-        cout << "timestable\t times table program\n";
+        cout << setw(15) << left << "temp" << "temperature program\n";
+        cout << setw(15) << left << "timestable" << "times table program\n";
+        cout << setw(15) << left << "pyramid" << "pyramid program\n";
+        cout << "Enter the program you would like to run or press e to quit: ";
         cin >> choice;
 
         if (choice == "temp") {

@@ -8,7 +8,9 @@ using namespace std;
 
 void pyramid() {
 
-    int height = 20;
+    int height;
+    cout << "Enter how high you want the pyramid to be: ";
+    cin >> height;
 
     for (int level = 0; level < height; level++) {
         for (int spaces = 1; spaces <= height - level - 1 / 2; spaces++) {
