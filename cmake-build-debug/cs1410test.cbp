@@ -86,6 +86,9 @@
 		<Unit filename="/Users/admin/CLionProjects/cs1410/main.h">
 			<Option target="cs1410xtest"/>
 		</Unit>
+		<Unit filename="/Users/admin/CLionProjects/cs1410/pyramid.cpp">
+			<Option target="cs1410xtest"/>
+		</Unit>
 		<Unit filename="/Users/admin/CLionProjects/cs1410/temp.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>

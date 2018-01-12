@@ -4,6 +4,9 @@
 CMakeFiles/cs1410xtest.dir/main.cpp.o: ../main.cpp
 CMakeFiles/cs1410xtest.dir/main.cpp.o: ../main.h
 
+CMakeFiles/cs1410xtest.dir/pyramid.cpp.o: ../main.h
+CMakeFiles/cs1410xtest.dir/pyramid.cpp.o: ../pyramid.cpp
+
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: ../main.h
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: ../temp.cpp
 

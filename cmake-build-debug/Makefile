@@ -150,6 +150,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+pyramid.o: pyramid.cpp.o
+
+.PHONY : pyramid.o
+
+# target to build an object file
+pyramid.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/pyramid.cpp.o
+.PHONY : pyramid.cpp.o
+
+pyramid.i: pyramid.cpp.i
+
+.PHONY : pyramid.i
+
+# target to preprocess a source file
+pyramid.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/pyramid.cpp.i
+.PHONY : pyramid.cpp.i
+
+pyramid.s: pyramid.cpp.s
+
+.PHONY : pyramid.s
+
+# target to generate assembly for a file
+pyramid.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/pyramid.cpp.s
+.PHONY : pyramid.cpp.s
+
 temp.o: temp.cpp.o
 
 .PHONY : temp.o
@@ -216,6 +243,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... pyramid.o"
+	@echo "... pyramid.i"
+	@echo "... pyramid.s"
 	@echo "... temp.o"
 	@echo "... temp.i"
 	@echo "... temp.s"

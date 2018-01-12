@@ -1,5 +1,5 @@
 /*
- * playground
+ * main - main file that links to all of the other cpp files I make throughout the course
  */
 
 #define _USE_MATH_DEFINES
@@ -21,11 +21,11 @@ int main() {
             temp();
         } else if (choice == "timestable") {
             timestable();
+        } else if (choice == "pyramid") {
+            pyramid();
         } else if (choice == "E" || choice == "e") {
             break;
         }
     }
-
-
 
 }

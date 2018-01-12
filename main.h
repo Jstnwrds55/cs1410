@@ -6,8 +6,8 @@
 #define CS1410TEST_ROOTS_H
 
 void timestable();
-
 void temp();
+void pyramid();
 
 
 #endif //CS1410TEST_ROOTS_H
