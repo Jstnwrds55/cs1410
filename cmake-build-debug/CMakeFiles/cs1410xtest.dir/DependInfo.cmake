@@ -5,8 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/admin/CLionProjects/cs1410/main.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/main.cpp.o"
-  "/Users/admin/CLionProjects/cs1410/multtable.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/multtable.cpp.o"
   "/Users/admin/CLionProjects/cs1410/temp.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/temp.cpp.o"
+  "/Users/admin/CLionProjects/cs1410/timestable.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/timestable.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

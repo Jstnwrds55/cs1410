@@ -81,28 +81,28 @@ CMakeFiles/cs1410xtest.dir/main.cpp.o.provides: CMakeFiles/cs1410xtest.dir/main.
 CMakeFiles/cs1410xtest.dir/main.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/main.cpp.o
 
 
-CMakeFiles/cs1410xtest.dir/multtable.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
-CMakeFiles/cs1410xtest.dir/multtable.cpp.o: ../multtable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cs1410xtest.dir/multtable.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/multtable.cpp.o -c /Users/admin/CLionProjects/cs1410/multtable.cpp
+CMakeFiles/cs1410xtest.dir/timestable.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
+CMakeFiles/cs1410xtest.dir/timestable.cpp.o: ../timestable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cs1410xtest.dir/timestable.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/timestable.cpp.o -c /Users/admin/CLionProjects/cs1410/timestable.cpp
 
-CMakeFiles/cs1410xtest.dir/multtable.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/multtable.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/multtable.cpp > CMakeFiles/cs1410xtest.dir/multtable.cpp.i
+CMakeFiles/cs1410xtest.dir/timestable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/timestable.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/timestable.cpp > CMakeFiles/cs1410xtest.dir/timestable.cpp.i
 
-CMakeFiles/cs1410xtest.dir/multtable.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/multtable.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/multtable.cpp -o CMakeFiles/cs1410xtest.dir/multtable.cpp.s
+CMakeFiles/cs1410xtest.dir/timestable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/timestable.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/timestable.cpp -o CMakeFiles/cs1410xtest.dir/timestable.cpp.s
 
-CMakeFiles/cs1410xtest.dir/multtable.cpp.o.requires:
+CMakeFiles/cs1410xtest.dir/timestable.cpp.o.requires:
 
-.PHONY : CMakeFiles/cs1410xtest.dir/multtable.cpp.o.requires
+.PHONY : CMakeFiles/cs1410xtest.dir/timestable.cpp.o.requires
 
-CMakeFiles/cs1410xtest.dir/multtable.cpp.o.provides: CMakeFiles/cs1410xtest.dir/multtable.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/multtable.cpp.o.provides.build
-.PHONY : CMakeFiles/cs1410xtest.dir/multtable.cpp.o.provides
+CMakeFiles/cs1410xtest.dir/timestable.cpp.o.provides: CMakeFiles/cs1410xtest.dir/timestable.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/timestable.cpp.o.provides.build
+.PHONY : CMakeFiles/cs1410xtest.dir/timestable.cpp.o.provides
 
-CMakeFiles/cs1410xtest.dir/multtable.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/multtable.cpp.o
+CMakeFiles/cs1410xtest.dir/timestable.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/timestable.cpp.o
 
 
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
@@ -132,14 +132,14 @@ CMakeFiles/cs1410xtest.dir/temp.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir
 # Object files for target cs1410xtest
 cs1410xtest_OBJECTS = \
 "CMakeFiles/cs1410xtest.dir/main.cpp.o" \
-"CMakeFiles/cs1410xtest.dir/multtable.cpp.o" \
+"CMakeFiles/cs1410xtest.dir/timestable.cpp.o" \
 "CMakeFiles/cs1410xtest.dir/temp.cpp.o"
 
 # External object files for target cs1410xtest
 cs1410xtest_EXTERNAL_OBJECTS =
 
 cs1410xtest: CMakeFiles/cs1410xtest.dir/main.cpp.o
-cs1410xtest: CMakeFiles/cs1410xtest.dir/multtable.cpp.o
+cs1410xtest: CMakeFiles/cs1410xtest.dir/timestable.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/temp.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/build.make
 cs1410xtest: CMakeFiles/cs1410xtest.dir/link.txt
@@ -152,7 +152,7 @@ CMakeFiles/cs1410xtest.dir/build: cs1410xtest
 .PHONY : CMakeFiles/cs1410xtest.dir/build
 
 CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/main.cpp.o.requires
-CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/multtable.cpp.o.requires
+CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/timestable.cpp.o.requires
 CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/temp.cpp.o.requires
 
 .PHONY : CMakeFiles/cs1410xtest.dir/requires

@@ -150,33 +150,6 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-multtable.o: multtable.cpp.o
-
-.PHONY : multtable.o
-
-# target to build an object file
-multtable.cpp.o:
-	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/multtable.cpp.o
-.PHONY : multtable.cpp.o
-
-multtable.i: multtable.cpp.i
-
-.PHONY : multtable.i
-
-# target to preprocess a source file
-multtable.cpp.i:
-	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/multtable.cpp.i
-.PHONY : multtable.cpp.i
-
-multtable.s: multtable.cpp.s
-
-.PHONY : multtable.s
-
-# target to generate assembly for a file
-multtable.cpp.s:
-	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/multtable.cpp.s
-.PHONY : multtable.cpp.s
-
 temp.o: temp.cpp.o
 
 .PHONY : temp.o
@@ -204,6 +177,33 @@ temp.cpp.s:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/temp.cpp.s
 .PHONY : temp.cpp.s
 
+timestable.o: timestable.cpp.o
+
+.PHONY : timestable.o
+
+# target to build an object file
+timestable.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/timestable.cpp.o
+.PHONY : timestable.cpp.o
+
+timestable.i: timestable.cpp.i
+
+.PHONY : timestable.i
+
+# target to preprocess a source file
+timestable.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/timestable.cpp.i
+.PHONY : timestable.cpp.i
+
+timestable.s: timestable.cpp.s
+
+.PHONY : timestable.s
+
+# target to generate assembly for a file
+timestable.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/timestable.cpp.s
+.PHONY : timestable.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -216,12 +216,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... multtable.o"
-	@echo "... multtable.i"
-	@echo "... multtable.s"
 	@echo "... temp.o"
 	@echo "... temp.i"
 	@echo "... temp.s"
+	@echo "... timestable.o"
+	@echo "... timestable.i"
+	@echo "... timestable.s"
 .PHONY : help
 
 
