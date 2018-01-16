@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/admin/CLionProjects/cs1410/main.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/main.cpp.o"
   "/Users/admin/CLionProjects/cs1410/pyramid.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/pyramid.cpp.o"
+  "/Users/admin/CLionProjects/cs1410/scores.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/scores.cpp.o"
   "/Users/admin/CLionProjects/cs1410/temp.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/temp.cpp.o"
   "/Users/admin/CLionProjects/cs1410/timestable.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/timestable.cpp.o"
   )

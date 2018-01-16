@@ -13,20 +13,24 @@ int main() {
     while (true) {
 
         string choice;
+        cout << endl;
         cout << setw(15) << left << "temp" << "temperature program\n";
         cout << setw(15) << left << "timestable" << "times table program\n";
         cout << setw(15) << left << "pyramid" << "pyramid program\n";
+        cout << setw(15) << left << "scores" << "highest scores program\n";
         cout << "Enter the program you would like to run or press e to quit: ";
         cin >> choice;
 
-        if (choice == "temp") {
-            temp();
+        if (choice == "E" || choice == "e") {
+            break;
         } else if (choice == "timestable") {
             timestable();
         } else if (choice == "pyramid") {
             pyramid();
-        } else if (choice == "E" || choice == "e") {
-            break;
+        } else if (choice == "temp") {
+            temp();
+        } else if (choice == "scores") {
+            highestScore();
         }
     }
 

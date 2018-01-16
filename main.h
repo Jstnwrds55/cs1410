@@ -8,6 +8,7 @@
 void timestable();
 void temp();
 void pyramid();
+int highestScore();
 
 
 #endif //CS1410TEST_ROOTS_H

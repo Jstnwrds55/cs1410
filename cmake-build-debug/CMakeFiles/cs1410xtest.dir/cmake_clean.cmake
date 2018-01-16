@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cs1410xtest.dir/timestable.cpp.o"
   "CMakeFiles/cs1410xtest.dir/temp.cpp.o"
   "CMakeFiles/cs1410xtest.dir/pyramid.cpp.o"
+  "CMakeFiles/cs1410xtest.dir/scores.cpp.o"
   "cs1410xtest.pdb"
   "cs1410xtest"
 )
