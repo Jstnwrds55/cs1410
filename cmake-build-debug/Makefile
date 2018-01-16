@@ -123,6 +123,33 @@ cs1410xtest/fast:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/build
 .PHONY : cs1410xtest/fast
 
+forloops.o: forloops.cpp.o
+
+.PHONY : forloops.o
+
+# target to build an object file
+forloops.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/forloops.cpp.o
+.PHONY : forloops.cpp.o
+
+forloops.i: forloops.cpp.i
+
+.PHONY : forloops.i
+
+# target to preprocess a source file
+forloops.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/forloops.cpp.i
+.PHONY : forloops.cpp.i
+
+forloops.s: forloops.cpp.s
+
+.PHONY : forloops.s
+
+# target to generate assembly for a file
+forloops.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/forloops.cpp.s
+.PHONY : forloops.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -267,6 +294,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cs1410xtest"
+	@echo "... forloops.o"
+	@echo "... forloops.i"
+	@echo "... forloops.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

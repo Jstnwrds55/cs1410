@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/Users/admin/CLionProjects/cs1410/forloops.cpp
+main.h
+/Users/admin/CLionProjects/cs1410/main.h
+iostream
+-
+
 /Users/admin/CLionProjects/cs1410/main.cpp
 iostream
 -

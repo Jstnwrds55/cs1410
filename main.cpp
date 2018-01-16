@@ -18,6 +18,7 @@ int main() {
         cout << setw(15) << left << "timestable" << "times table program\n";
         cout << setw(15) << left << "pyramid" << "pyramid program\n";
         cout << setw(15) << left << "scores" << "highest scores program\n";
+        cout << setw(15) << left << "forloops" << "for loop practice\n";
         cout << "Enter the program you would like to run or press e to quit: ";
         cin >> choice;
 
@@ -31,6 +32,8 @@ int main() {
             temp();
         } else if (choice == "scores") {
             highestScore();
+        } else if (choice == "forloops") {
+            forloops();
         }
     }
 

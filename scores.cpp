@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int highestScore() {
+void highestScore() {
 
     cout << "Do you want to find the highest value (h) or average (a)? ";
     char choice;

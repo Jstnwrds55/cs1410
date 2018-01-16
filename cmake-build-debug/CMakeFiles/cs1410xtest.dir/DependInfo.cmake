@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/admin/CLionProjects/cs1410/forloops.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/forloops.cpp.o"
   "/Users/admin/CLionProjects/cs1410/main.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/main.cpp.o"
   "/Users/admin/CLionProjects/cs1410/pyramid.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/pyramid.cpp.o"
   "/Users/admin/CLionProjects/cs1410/scores.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/scores.cpp.o"

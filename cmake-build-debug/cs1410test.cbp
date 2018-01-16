@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/admin/CLionProjects/cs1410/forloops.cpp">
+			<Option target="cs1410xtest"/>
+		</Unit>
 		<Unit filename="/Users/admin/CLionProjects/cs1410/main.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
