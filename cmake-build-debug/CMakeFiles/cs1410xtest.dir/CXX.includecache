@@ -28,6 +28,12 @@ main.h
 iostream
 -
 
+/Users/admin/CLionProjects/cs1410/roots2.cpp
+cmath
+-
+iostream
+-
+
 /Users/admin/CLionProjects/cs1410/scores.cpp
 main.h
 /Users/admin/CLionProjects/cs1410/main.h

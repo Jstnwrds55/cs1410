@@ -10,6 +10,8 @@ CMakeFiles/cs1410xtest.dir/main.cpp.o: ../main.h
 CMakeFiles/cs1410xtest.dir/pyramid.cpp.o: ../main.h
 CMakeFiles/cs1410xtest.dir/pyramid.cpp.o: ../pyramid.cpp
 
+CMakeFiles/cs1410xtest.dir/roots2.cpp.o: ../roots2.cpp
+
 CMakeFiles/cs1410xtest.dir/scores.cpp.o: ../main.h
 CMakeFiles/cs1410xtest.dir/scores.cpp.o: ../scores.cpp
 

@@ -19,6 +19,7 @@ int main() {
         cout << setw(15) << left << "pyramid" << "pyramid program\n";
         cout << setw(15) << left << "scores" << "highest scores program\n";
         cout << setw(15) << left << "forloops" << "for loop practice\n";
+        cout << setw(15) << left << "roots2" << "roots 2 program\n";
         cout << "Enter the program you would like to run or press e to quit: ";
         cin >> choice;
 
@@ -34,6 +35,8 @@ int main() {
             highestScore();
         } else if (choice == "forloops") {
             forloops();
+        } else if (choice == "roots2") {
+            roots2();
         }
     }
 

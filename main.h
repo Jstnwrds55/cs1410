@@ -10,6 +10,7 @@ void temp();
 void pyramid();
 void highestScore();
 void forloops();
+int roots2();
 
 
 #endif //CS1410TEST_ROOTS_H
