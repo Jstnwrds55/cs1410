@@ -225,6 +225,54 @@ CMakeFiles/cs1410xtest.dir/roots2.cpp.o.provides: CMakeFiles/cs1410xtest.dir/roo
 CMakeFiles/cs1410xtest.dir/roots2.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/roots2.cpp.o
 
 
+CMakeFiles/cs1410xtest.dir/guess.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
+CMakeFiles/cs1410xtest.dir/guess.cpp.o: ../guess.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cs1410xtest.dir/guess.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/guess.cpp.o -c /Users/admin/CLionProjects/cs1410/guess.cpp
+
+CMakeFiles/cs1410xtest.dir/guess.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/guess.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/guess.cpp > CMakeFiles/cs1410xtest.dir/guess.cpp.i
+
+CMakeFiles/cs1410xtest.dir/guess.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/guess.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/guess.cpp -o CMakeFiles/cs1410xtest.dir/guess.cpp.s
+
+CMakeFiles/cs1410xtest.dir/guess.cpp.o.requires:
+
+.PHONY : CMakeFiles/cs1410xtest.dir/guess.cpp.o.requires
+
+CMakeFiles/cs1410xtest.dir/guess.cpp.o.provides: CMakeFiles/cs1410xtest.dir/guess.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/guess.cpp.o.provides.build
+.PHONY : CMakeFiles/cs1410xtest.dir/guess.cpp.o.provides
+
+CMakeFiles/cs1410xtest.dir/guess.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/guess.cpp.o
+
+
+CMakeFiles/cs1410xtest.dir/tree.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
+CMakeFiles/cs1410xtest.dir/tree.cpp.o: ../tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cs1410xtest.dir/tree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/tree.cpp.o -c /Users/admin/CLionProjects/cs1410/tree.cpp
+
+CMakeFiles/cs1410xtest.dir/tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/tree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/tree.cpp > CMakeFiles/cs1410xtest.dir/tree.cpp.i
+
+CMakeFiles/cs1410xtest.dir/tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/tree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/tree.cpp -o CMakeFiles/cs1410xtest.dir/tree.cpp.s
+
+CMakeFiles/cs1410xtest.dir/tree.cpp.o.requires:
+
+.PHONY : CMakeFiles/cs1410xtest.dir/tree.cpp.o.requires
+
+CMakeFiles/cs1410xtest.dir/tree.cpp.o.provides: CMakeFiles/cs1410xtest.dir/tree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/tree.cpp.o.provides.build
+.PHONY : CMakeFiles/cs1410xtest.dir/tree.cpp.o.provides
+
+CMakeFiles/cs1410xtest.dir/tree.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/tree.cpp.o
+
+
 # Object files for target cs1410xtest
 cs1410xtest_OBJECTS = \
 "CMakeFiles/cs1410xtest.dir/main.cpp.o" \
@@ -233,7 +281,9 @@ cs1410xtest_OBJECTS = \
 "CMakeFiles/cs1410xtest.dir/pyramid.cpp.o" \
 "CMakeFiles/cs1410xtest.dir/scores.cpp.o" \
 "CMakeFiles/cs1410xtest.dir/forloops.cpp.o" \
-"CMakeFiles/cs1410xtest.dir/roots2.cpp.o"
+"CMakeFiles/cs1410xtest.dir/roots2.cpp.o" \
+"CMakeFiles/cs1410xtest.dir/guess.cpp.o" \
+"CMakeFiles/cs1410xtest.dir/tree.cpp.o"
 
 # External object files for target cs1410xtest
 cs1410xtest_EXTERNAL_OBJECTS =
@@ -245,9 +295,11 @@ cs1410xtest: CMakeFiles/cs1410xtest.dir/pyramid.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/scores.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/forloops.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/roots2.cpp.o
+cs1410xtest: CMakeFiles/cs1410xtest.dir/guess.cpp.o
+cs1410xtest: CMakeFiles/cs1410xtest.dir/tree.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/build.make
 cs1410xtest: CMakeFiles/cs1410xtest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable cs1410xtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable cs1410xtest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cs1410xtest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -262,6 +314,8 @@ CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/pyramid.cpp.o.re
 CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/scores.cpp.o.requires
 CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/forloops.cpp.o.requires
 CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/roots2.cpp.o.requires
+CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/guess.cpp.o.requires
+CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/tree.cpp.o.requires
 
 .PHONY : CMakeFiles/cs1410xtest.dir/requires
 

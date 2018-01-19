@@ -11,6 +11,7 @@ void pyramid();
 void highestScore();
 void forloops();
 int roots2();
-
+void guess();
+void tree();
 
 #endif //CS1410TEST_ROOTS_H

@@ -20,7 +20,8 @@ int main() {
         cout << setw(15) << left << "scores" << "highest scores program\n";
         cout << setw(15) << left << "forloops" << "for loop practice\n";
         cout << setw(15) << left << "roots2" << "roots 2 program\n";
-        cout << "Enter the program you would like to run or press e to quit: ";
+        cout << setw(15) << left << "guess" << "guessing game program\n";
+        cout << "\nEnter the program you would like to run or press e to quit: ";
         cin >> choice;
 
         if (choice == "E" || choice == "e") {
@@ -37,6 +38,10 @@ int main() {
             forloops();
         } else if (choice == "roots2") {
             roots2();
+        } else if (choice == "guess") {
+            guess();
+        } else if (choice == "tree") {
+            tree();
         }
     }
 

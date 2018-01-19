@@ -12,6 +12,12 @@ main.h
 iostream
 -
 
+/Users/admin/CLionProjects/cs1410/guess.cpp
+main.h
+/Users/admin/CLionProjects/cs1410/main.h
+iostream
+-
+
 /Users/admin/CLionProjects/cs1410/main.cpp
 iostream
 -
@@ -33,6 +39,8 @@ cmath
 -
 iostream
 -
+main.h
+/Users/admin/CLionProjects/cs1410/main.h
 
 /Users/admin/CLionProjects/cs1410/scores.cpp
 main.h
@@ -53,4 +61,10 @@ iostream
 -
 iomanip
 -
+
+/Users/admin/CLionProjects/cs1410/tree.cpp
+iostream
+-
+main.h
+/Users/admin/CLionProjects/cs1410/main.h
 

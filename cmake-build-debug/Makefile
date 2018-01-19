@@ -150,6 +150,33 @@ forloops.cpp.s:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/forloops.cpp.s
 .PHONY : forloops.cpp.s
 
+guess.o: guess.cpp.o
+
+.PHONY : guess.o
+
+# target to build an object file
+guess.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/guess.cpp.o
+.PHONY : guess.cpp.o
+
+guess.i: guess.cpp.i
+
+.PHONY : guess.i
+
+# target to preprocess a source file
+guess.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/guess.cpp.i
+.PHONY : guess.cpp.i
+
+guess.s: guess.cpp.s
+
+.PHONY : guess.s
+
+# target to generate assembly for a file
+guess.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/guess.cpp.s
+.PHONY : guess.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -312,6 +339,33 @@ timestable.cpp.s:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/timestable.cpp.s
 .PHONY : timestable.cpp.s
 
+tree.o: tree.cpp.o
+
+.PHONY : tree.o
+
+# target to build an object file
+tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/tree.cpp.o
+.PHONY : tree.cpp.o
+
+tree.i: tree.cpp.i
+
+.PHONY : tree.i
+
+# target to preprocess a source file
+tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/tree.cpp.i
+.PHONY : tree.cpp.i
+
+tree.s: tree.cpp.s
+
+.PHONY : tree.s
+
+# target to generate assembly for a file
+tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/tree.cpp.s
+.PHONY : tree.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -324,6 +378,9 @@ help:
 	@echo "... forloops.o"
 	@echo "... forloops.i"
 	@echo "... forloops.s"
+	@echo "... guess.o"
+	@echo "... guess.i"
+	@echo "... guess.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -342,6 +399,9 @@ help:
 	@echo "... timestable.o"
 	@echo "... timestable.i"
 	@echo "... timestable.s"
+	@echo "... tree.o"
+	@echo "... tree.i"
+	@echo "... tree.s"
 .PHONY : help
 
 
