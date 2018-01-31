@@ -19,6 +19,8 @@ CMakeFiles/cs1410xtest.dir/roots2.cpp.o: ../roots2.cpp
 CMakeFiles/cs1410xtest.dir/scores.cpp.o: ../main.h
 CMakeFiles/cs1410xtest.dir/scores.cpp.o: ../scores.cpp
 
+CMakeFiles/cs1410xtest.dir/stairs.cpp.o: ../stairs.cpp
+
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: ../main.h
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: ../temp.cpp
 

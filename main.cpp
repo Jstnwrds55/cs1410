@@ -21,6 +21,7 @@ int main() {
         cout << setw(15) << left << "forloops" << "for loop practice\n";
         cout << setw(15) << left << "roots2" << "roots 2 program\n";
         cout << setw(15) << left << "guess" << "guessing game program\n";
+        cout << setw(15) << left << "stairs" << "stair maker program\n";
         cout << "\nEnter the program you would like to run or press e to quit: ";
         cin >> choice;
 
@@ -42,6 +43,8 @@ int main() {
             guess();
         } else if (choice == "tree") {
             tree();
+        } else if (choice == "stairs") {
+            stairs();
         }
     }
 

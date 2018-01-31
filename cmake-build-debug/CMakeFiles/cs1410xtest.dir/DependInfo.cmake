@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/admin/CLionProjects/cs1410/pyramid.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/pyramid.cpp.o"
   "/Users/admin/CLionProjects/cs1410/roots2.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/roots2.cpp.o"
   "/Users/admin/CLionProjects/cs1410/scores.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/scores.cpp.o"
+  "/Users/admin/CLionProjects/cs1410/stairs.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/stairs.cpp.o"
   "/Users/admin/CLionProjects/cs1410/temp.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/temp.cpp.o"
   "/Users/admin/CLionProjects/cs1410/timestable.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/timestable.cpp.o"
   "/Users/admin/CLionProjects/cs1410/tree.cpp" "/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/tree.cpp.o"

@@ -285,6 +285,33 @@ scores.cpp.s:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/scores.cpp.s
 .PHONY : scores.cpp.s
 
+stairs.o: stairs.cpp.o
+
+.PHONY : stairs.o
+
+# target to build an object file
+stairs.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/stairs.cpp.o
+.PHONY : stairs.cpp.o
+
+stairs.i: stairs.cpp.i
+
+.PHONY : stairs.i
+
+# target to preprocess a source file
+stairs.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/stairs.cpp.i
+.PHONY : stairs.cpp.i
+
+stairs.s: stairs.cpp.s
+
+.PHONY : stairs.s
+
+# target to generate assembly for a file
+stairs.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/stairs.cpp.s
+.PHONY : stairs.cpp.s
+
 temp.o: temp.cpp.o
 
 .PHONY : temp.o
@@ -393,6 +420,9 @@ help:
 	@echo "... scores.o"
 	@echo "... scores.i"
 	@echo "... scores.s"
+	@echo "... stairs.o"
+	@echo "... stairs.i"
+	@echo "... stairs.s"
 	@echo "... temp.o"
 	@echo "... temp.i"
 	@echo "... temp.s"

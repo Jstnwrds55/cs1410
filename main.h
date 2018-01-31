@@ -13,5 +13,6 @@ void forloops();
 int roots2();
 void guess();
 void tree();
+void stairs();
 
 #endif //CS1410TEST_ROOTS_H
