@@ -21,6 +21,12 @@ CMakeFiles/cs1410xtest.dir/scores.cpp.o: ../scores.cpp
 
 CMakeFiles/cs1410xtest.dir/stairs.cpp.o: ../stairs.cpp
 
+CMakeFiles/cs1410xtest.dir/sterling.cpp.o: ../sterling.cpp
+CMakeFiles/cs1410xtest.dir/sterling.cpp.o: ../sterling.h
+
+CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o: ../sterling.h
+CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o: ../sterlyboi.cpp
+
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: ../main.h
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: ../temp.cpp
 

@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cs1410xtest.dir/guess.cpp.o"
   "CMakeFiles/cs1410xtest.dir/tree.cpp.o"
   "CMakeFiles/cs1410xtest.dir/stairs.cpp.o"
+  "CMakeFiles/cs1410xtest.dir/sterling.cpp.o"
+  "CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o"
   "cs1410xtest.pdb"
   "cs1410xtest"
 )

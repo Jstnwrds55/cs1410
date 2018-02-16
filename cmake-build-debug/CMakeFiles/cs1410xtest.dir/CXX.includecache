@@ -6,69 +6,85 @@
 
 #IncludeRegexTransform: 
 
-/Users/admin/CLionProjects/cs1410/forloops.cpp
+/Users/admin/CLionProjects/cstest/cs1410/forloops.cpp
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 iostream
 -
 
-/Users/admin/CLionProjects/cs1410/guess.cpp
+/Users/admin/CLionProjects/cstest/cs1410/guess.cpp
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 iostream
 -
 
-/Users/admin/CLionProjects/cs1410/main.cpp
+/Users/admin/CLionProjects/cstest/cs1410/main.cpp
 iostream
 -
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 iomanip
 -
 
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 
-/Users/admin/CLionProjects/cs1410/pyramid.cpp
+/Users/admin/CLionProjects/cstest/cs1410/pyramid.cpp
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 iostream
 -
 
-/Users/admin/CLionProjects/cs1410/roots2.cpp
+/Users/admin/CLionProjects/cstest/cs1410/roots2.cpp
 cmath
 -
 iostream
 -
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 
-/Users/admin/CLionProjects/cs1410/scores.cpp
+/Users/admin/CLionProjects/cstest/cs1410/scores.cpp
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 iostream
 -
 
-/Users/admin/CLionProjects/cs1410/stairs.cpp
+/Users/admin/CLionProjects/cstest/cs1410/stairs.cpp
 iostream
 -
 
-/Users/admin/CLionProjects/cs1410/temp.cpp
+/Users/admin/CLionProjects/cstest/cs1410/sterling.cpp
+iostream
+-
+iomanip
+-
+sterling.h
+/Users/admin/CLionProjects/cstest/cs1410/sterling.h
+
+/Users/admin/CLionProjects/cstest/cs1410/sterling.h
+
+/Users/admin/CLionProjects/cstest/cs1410/sterlyboi.cpp
+iostream
+-
+sterling.h
+/Users/admin/CLionProjects/cstest/cs1410/sterling.h
+
+/Users/admin/CLionProjects/cstest/cs1410/temp.cpp
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 iostream
 -
 
-/Users/admin/CLionProjects/cs1410/timestable.cpp
+/Users/admin/CLionProjects/cstest/cs1410/timestable.cpp
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 iostream
 -
 iomanip
 -
 
-/Users/admin/CLionProjects/cs1410/tree.cpp
+/Users/admin/CLionProjects/cstest/cs1410/tree.cpp
 iostream
 -
 main.h
-/Users/admin/CLionProjects/cs1410/main.h
+/Users/admin/CLionProjects/cstest/cs1410/main.h
 

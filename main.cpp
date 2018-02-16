@@ -14,7 +14,7 @@ int main() {
 
         string choice;
         cout << endl;
-        cout << setw(15) << left << "temp" << "temperature program\n";
+        cout << setw(15) << setfill(' ') << left << "temp" << "temperature program\n";
         cout << setw(15) << left << "timestable" << "times table program\n";
         cout << setw(15) << left << "pyramid" << "pyramid program\n";
         cout << setw(15) << left << "scores" << "highest scores program\n";
@@ -45,6 +45,8 @@ int main() {
             tree();
         } else if (choice == "stairs") {
             stairs();
+        } else if (choice == "sterling") {
+            sterlyboi();
         }
     }
 

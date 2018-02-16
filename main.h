@@ -14,5 +14,6 @@ int roots2();
 void guess();
 void tree();
 void stairs();
+void sterlyboi();
 
 #endif //CS1410TEST_ROOTS_H

@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/admin/CLionProjects/cs1410
+CMAKE_SOURCE_DIR = /Users/admin/CLionProjects/cstest/cs1410
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/admin/CLionProjects/cs1410/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles /Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -312,6 +312,60 @@ stairs.cpp.s:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/stairs.cpp.s
 .PHONY : stairs.cpp.s
 
+sterling.o: sterling.cpp.o
+
+.PHONY : sterling.o
+
+# target to build an object file
+sterling.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/sterling.cpp.o
+.PHONY : sterling.cpp.o
+
+sterling.i: sterling.cpp.i
+
+.PHONY : sterling.i
+
+# target to preprocess a source file
+sterling.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/sterling.cpp.i
+.PHONY : sterling.cpp.i
+
+sterling.s: sterling.cpp.s
+
+.PHONY : sterling.s
+
+# target to generate assembly for a file
+sterling.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/sterling.cpp.s
+.PHONY : sterling.cpp.s
+
+sterlyboi.o: sterlyboi.cpp.o
+
+.PHONY : sterlyboi.o
+
+# target to build an object file
+sterlyboi.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o
+.PHONY : sterlyboi.cpp.o
+
+sterlyboi.i: sterlyboi.cpp.i
+
+.PHONY : sterlyboi.i
+
+# target to preprocess a source file
+sterlyboi.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.i
+.PHONY : sterlyboi.cpp.i
+
+sterlyboi.s: sterlyboi.cpp.s
+
+.PHONY : sterlyboi.s
+
+# target to generate assembly for a file
+sterlyboi.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.s
+.PHONY : sterlyboi.cpp.s
+
 temp.o: temp.cpp.o
 
 .PHONY : temp.o
@@ -423,6 +477,12 @@ help:
 	@echo "... stairs.o"
 	@echo "... stairs.i"
 	@echo "... stairs.s"
+	@echo "... sterling.o"
+	@echo "... sterling.i"
+	@echo "... sterling.s"
+	@echo "... sterlyboi.o"
+	@echo "... sterlyboi.i"
+	@echo "... sterlyboi.s"
 	@echo "... temp.o"
 	@echo "... temp.i"
 	@echo "... temp.s"
