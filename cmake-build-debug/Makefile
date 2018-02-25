@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/admin/CLionProjects/cstest/cs1410
+CMAKE_SOURCE_DIR = /Users/admin/CLionProjects/cs1410
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/admin/CLionProjects/cs1410/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles /Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -447,6 +447,60 @@ tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/tree.cpp.s
 .PHONY : tree.cpp.s
 
+weight.o: weight.cpp.o
+
+.PHONY : weight.o
+
+# target to build an object file
+weight.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/weight.cpp.o
+.PHONY : weight.cpp.o
+
+weight.i: weight.cpp.i
+
+.PHONY : weight.i
+
+# target to preprocess a source file
+weight.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/weight.cpp.i
+.PHONY : weight.cpp.i
+
+weight.s: weight.cpp.s
+
+.PHONY : weight.s
+
+# target to generate assembly for a file
+weight.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/weight.cpp.s
+.PHONY : weight.cpp.s
+
+weight_functions.o: weight_functions.cpp.o
+
+.PHONY : weight_functions.o
+
+# target to build an object file
+weight_functions.cpp.o:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o
+.PHONY : weight_functions.cpp.o
+
+weight_functions.i: weight_functions.cpp.i
+
+.PHONY : weight_functions.i
+
+# target to preprocess a source file
+weight_functions.cpp.i:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/weight_functions.cpp.i
+.PHONY : weight_functions.cpp.i
+
+weight_functions.s: weight_functions.cpp.s
+
+.PHONY : weight_functions.s
+
+# target to generate assembly for a file
+weight_functions.cpp.s:
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/weight_functions.cpp.s
+.PHONY : weight_functions.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -492,6 +546,12 @@ help:
 	@echo "... tree.o"
 	@echo "... tree.i"
 	@echo "... tree.s"
+	@echo "... weight.o"
+	@echo "... weight.i"
+	@echo "... weight.s"
+	@echo "... weight_functions.o"
+	@echo "... weight_functions.i"
+	@echo "... weight_functions.s"
 .PHONY : help
 
 

@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/admin/CLionProjects/cstest/cs1410
+CMAKE_SOURCE_DIR = /Users/admin/CLionProjects/cs1410
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/admin/CLionProjects/cs1410/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/cs1410xtest.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/cs1410xtest.dir/flags.make
 
 CMakeFiles/cs1410xtest.dir/main.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cs1410xtest.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/main.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cs1410xtest.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/main.cpp.o -c /Users/admin/CLionProjects/cs1410/main.cpp
 
 CMakeFiles/cs1410xtest.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/main.cpp > CMakeFiles/cs1410xtest.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/main.cpp > CMakeFiles/cs1410xtest.dir/main.cpp.i
 
 CMakeFiles/cs1410xtest.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/main.cpp -o CMakeFiles/cs1410xtest.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/main.cpp -o CMakeFiles/cs1410xtest.dir/main.cpp.s
 
 CMakeFiles/cs1410xtest.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/cs1410xtest.dir/main.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir
 
 CMakeFiles/cs1410xtest.dir/timestable.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/timestable.cpp.o: ../timestable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cs1410xtest.dir/timestable.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/timestable.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/timestable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cs1410xtest.dir/timestable.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/timestable.cpp.o -c /Users/admin/CLionProjects/cs1410/timestable.cpp
 
 CMakeFiles/cs1410xtest.dir/timestable.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/timestable.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/timestable.cpp > CMakeFiles/cs1410xtest.dir/timestable.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/timestable.cpp > CMakeFiles/cs1410xtest.dir/timestable.cpp.i
 
 CMakeFiles/cs1410xtest.dir/timestable.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/timestable.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/timestable.cpp -o CMakeFiles/cs1410xtest.dir/timestable.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/timestable.cpp -o CMakeFiles/cs1410xtest.dir/timestable.cpp.s
 
 CMakeFiles/cs1410xtest.dir/timestable.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/cs1410xtest.dir/timestable.cpp.o.provides.build: CMakeFiles/cs1410xte
 
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/temp.cpp.o: ../temp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cs1410xtest.dir/temp.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/temp.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/temp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cs1410xtest.dir/temp.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/temp.cpp.o -c /Users/admin/CLionProjects/cs1410/temp.cpp
 
 CMakeFiles/cs1410xtest.dir/temp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/temp.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/temp.cpp > CMakeFiles/cs1410xtest.dir/temp.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/temp.cpp > CMakeFiles/cs1410xtest.dir/temp.cpp.i
 
 CMakeFiles/cs1410xtest.dir/temp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/temp.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/temp.cpp -o CMakeFiles/cs1410xtest.dir/temp.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/temp.cpp -o CMakeFiles/cs1410xtest.dir/temp.cpp.s
 
 CMakeFiles/cs1410xtest.dir/temp.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/cs1410xtest.dir/temp.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir
 
 CMakeFiles/cs1410xtest.dir/pyramid.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/pyramid.cpp.o: ../pyramid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cs1410xtest.dir/pyramid.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/pyramid.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/pyramid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cs1410xtest.dir/pyramid.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/pyramid.cpp.o -c /Users/admin/CLionProjects/cs1410/pyramid.cpp
 
 CMakeFiles/cs1410xtest.dir/pyramid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/pyramid.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/pyramid.cpp > CMakeFiles/cs1410xtest.dir/pyramid.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/pyramid.cpp > CMakeFiles/cs1410xtest.dir/pyramid.cpp.i
 
 CMakeFiles/cs1410xtest.dir/pyramid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/pyramid.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/pyramid.cpp -o CMakeFiles/cs1410xtest.dir/pyramid.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/pyramid.cpp -o CMakeFiles/cs1410xtest.dir/pyramid.cpp.s
 
 CMakeFiles/cs1410xtest.dir/pyramid.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/cs1410xtest.dir/pyramid.cpp.o.provides.build: CMakeFiles/cs1410xtest.
 
 CMakeFiles/cs1410xtest.dir/scores.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/scores.cpp.o: ../scores.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cs1410xtest.dir/scores.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/scores.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/scores.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cs1410xtest.dir/scores.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/scores.cpp.o -c /Users/admin/CLionProjects/cs1410/scores.cpp
 
 CMakeFiles/cs1410xtest.dir/scores.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/scores.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/scores.cpp > CMakeFiles/cs1410xtest.dir/scores.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/scores.cpp > CMakeFiles/cs1410xtest.dir/scores.cpp.i
 
 CMakeFiles/cs1410xtest.dir/scores.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/scores.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/scores.cpp -o CMakeFiles/cs1410xtest.dir/scores.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/scores.cpp -o CMakeFiles/cs1410xtest.dir/scores.cpp.s
 
 CMakeFiles/cs1410xtest.dir/scores.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/cs1410xtest.dir/scores.cpp.o.provides.build: CMakeFiles/cs1410xtest.d
 
 CMakeFiles/cs1410xtest.dir/forloops.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/forloops.cpp.o: ../forloops.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cs1410xtest.dir/forloops.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/forloops.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/forloops.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cs1410xtest.dir/forloops.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/forloops.cpp.o -c /Users/admin/CLionProjects/cs1410/forloops.cpp
 
 CMakeFiles/cs1410xtest.dir/forloops.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/forloops.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/forloops.cpp > CMakeFiles/cs1410xtest.dir/forloops.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/forloops.cpp > CMakeFiles/cs1410xtest.dir/forloops.cpp.i
 
 CMakeFiles/cs1410xtest.dir/forloops.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/forloops.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/forloops.cpp -o CMakeFiles/cs1410xtest.dir/forloops.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/forloops.cpp -o CMakeFiles/cs1410xtest.dir/forloops.cpp.s
 
 CMakeFiles/cs1410xtest.dir/forloops.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/cs1410xtest.dir/forloops.cpp.o.provides.build: CMakeFiles/cs1410xtest
 
 CMakeFiles/cs1410xtest.dir/roots2.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/roots2.cpp.o: ../roots2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cs1410xtest.dir/roots2.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/roots2.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/roots2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cs1410xtest.dir/roots2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/roots2.cpp.o -c /Users/admin/CLionProjects/cs1410/roots2.cpp
 
 CMakeFiles/cs1410xtest.dir/roots2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/roots2.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/roots2.cpp > CMakeFiles/cs1410xtest.dir/roots2.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/roots2.cpp > CMakeFiles/cs1410xtest.dir/roots2.cpp.i
 
 CMakeFiles/cs1410xtest.dir/roots2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/roots2.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/roots2.cpp -o CMakeFiles/cs1410xtest.dir/roots2.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/roots2.cpp -o CMakeFiles/cs1410xtest.dir/roots2.cpp.s
 
 CMakeFiles/cs1410xtest.dir/roots2.cpp.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/cs1410xtest.dir/roots2.cpp.o.provides.build: CMakeFiles/cs1410xtest.d
 
 CMakeFiles/cs1410xtest.dir/guess.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/guess.cpp.o: ../guess.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cs1410xtest.dir/guess.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/guess.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/guess.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cs1410xtest.dir/guess.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/guess.cpp.o -c /Users/admin/CLionProjects/cs1410/guess.cpp
 
 CMakeFiles/cs1410xtest.dir/guess.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/guess.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/guess.cpp > CMakeFiles/cs1410xtest.dir/guess.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/guess.cpp > CMakeFiles/cs1410xtest.dir/guess.cpp.i
 
 CMakeFiles/cs1410xtest.dir/guess.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/guess.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/guess.cpp -o CMakeFiles/cs1410xtest.dir/guess.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/guess.cpp -o CMakeFiles/cs1410xtest.dir/guess.cpp.s
 
 CMakeFiles/cs1410xtest.dir/guess.cpp.o.requires:
 
@@ -251,16 +251,16 @@ CMakeFiles/cs1410xtest.dir/guess.cpp.o.provides.build: CMakeFiles/cs1410xtest.di
 
 CMakeFiles/cs1410xtest.dir/tree.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/tree.cpp.o: ../tree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cs1410xtest.dir/tree.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/tree.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cs1410xtest.dir/tree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/tree.cpp.o -c /Users/admin/CLionProjects/cs1410/tree.cpp
 
 CMakeFiles/cs1410xtest.dir/tree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/tree.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/tree.cpp > CMakeFiles/cs1410xtest.dir/tree.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/tree.cpp > CMakeFiles/cs1410xtest.dir/tree.cpp.i
 
 CMakeFiles/cs1410xtest.dir/tree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/tree.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/tree.cpp -o CMakeFiles/cs1410xtest.dir/tree.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/tree.cpp -o CMakeFiles/cs1410xtest.dir/tree.cpp.s
 
 CMakeFiles/cs1410xtest.dir/tree.cpp.o.requires:
 
@@ -275,16 +275,16 @@ CMakeFiles/cs1410xtest.dir/tree.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir
 
 CMakeFiles/cs1410xtest.dir/stairs.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/stairs.cpp.o: ../stairs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cs1410xtest.dir/stairs.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/stairs.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/stairs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cs1410xtest.dir/stairs.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/stairs.cpp.o -c /Users/admin/CLionProjects/cs1410/stairs.cpp
 
 CMakeFiles/cs1410xtest.dir/stairs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/stairs.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/stairs.cpp > CMakeFiles/cs1410xtest.dir/stairs.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/stairs.cpp > CMakeFiles/cs1410xtest.dir/stairs.cpp.i
 
 CMakeFiles/cs1410xtest.dir/stairs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/stairs.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/stairs.cpp -o CMakeFiles/cs1410xtest.dir/stairs.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/stairs.cpp -o CMakeFiles/cs1410xtest.dir/stairs.cpp.s
 
 CMakeFiles/cs1410xtest.dir/stairs.cpp.o.requires:
 
@@ -299,16 +299,16 @@ CMakeFiles/cs1410xtest.dir/stairs.cpp.o.provides.build: CMakeFiles/cs1410xtest.d
 
 CMakeFiles/cs1410xtest.dir/sterling.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/sterling.cpp.o: ../sterling.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/cs1410xtest.dir/sterling.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/sterling.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/sterling.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/cs1410xtest.dir/sterling.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/sterling.cpp.o -c /Users/admin/CLionProjects/cs1410/sterling.cpp
 
 CMakeFiles/cs1410xtest.dir/sterling.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/sterling.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/sterling.cpp > CMakeFiles/cs1410xtest.dir/sterling.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/sterling.cpp > CMakeFiles/cs1410xtest.dir/sterling.cpp.i
 
 CMakeFiles/cs1410xtest.dir/sterling.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/sterling.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/sterling.cpp -o CMakeFiles/cs1410xtest.dir/sterling.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/sterling.cpp -o CMakeFiles/cs1410xtest.dir/sterling.cpp.s
 
 CMakeFiles/cs1410xtest.dir/sterling.cpp.o.requires:
 
@@ -323,16 +323,16 @@ CMakeFiles/cs1410xtest.dir/sterling.cpp.o.provides.build: CMakeFiles/cs1410xtest
 
 CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
 CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o: ../sterlyboi.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o -c /Users/admin/CLionProjects/cstest/cs1410/sterlyboi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o -c /Users/admin/CLionProjects/cs1410/sterlyboi.cpp
 
 CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cstest/cs1410/sterlyboi.cpp > CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/sterlyboi.cpp > CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.i
 
 CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cstest/cs1410/sterlyboi.cpp -o CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/sterlyboi.cpp -o CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.s
 
 CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o.requires:
 
@@ -343,6 +343,54 @@ CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o.provides: CMakeFiles/cs1410xtest.dir/
 .PHONY : CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o.provides
 
 CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o
+
+
+CMakeFiles/cs1410xtest.dir/weight.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
+CMakeFiles/cs1410xtest.dir/weight.cpp.o: ../weight.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/cs1410xtest.dir/weight.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/weight.cpp.o -c /Users/admin/CLionProjects/cs1410/weight.cpp
+
+CMakeFiles/cs1410xtest.dir/weight.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/weight.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/weight.cpp > CMakeFiles/cs1410xtest.dir/weight.cpp.i
+
+CMakeFiles/cs1410xtest.dir/weight.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/weight.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/weight.cpp -o CMakeFiles/cs1410xtest.dir/weight.cpp.s
+
+CMakeFiles/cs1410xtest.dir/weight.cpp.o.requires:
+
+.PHONY : CMakeFiles/cs1410xtest.dir/weight.cpp.o.requires
+
+CMakeFiles/cs1410xtest.dir/weight.cpp.o.provides: CMakeFiles/cs1410xtest.dir/weight.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/weight.cpp.o.provides.build
+.PHONY : CMakeFiles/cs1410xtest.dir/weight.cpp.o.provides
+
+CMakeFiles/cs1410xtest.dir/weight.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/weight.cpp.o
+
+
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o: CMakeFiles/cs1410xtest.dir/flags.make
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o: ../weight_functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o -c /Users/admin/CLionProjects/cs1410/weight_functions.cpp
+
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs1410xtest.dir/weight_functions.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/admin/CLionProjects/cs1410/weight_functions.cpp > CMakeFiles/cs1410xtest.dir/weight_functions.cpp.i
+
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs1410xtest.dir/weight_functions.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/admin/CLionProjects/cs1410/weight_functions.cpp -o CMakeFiles/cs1410xtest.dir/weight_functions.cpp.s
+
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o.requires:
+
+.PHONY : CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o.requires
+
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o.provides: CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cs1410xtest.dir/build.make CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o.provides.build
+.PHONY : CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o.provides
+
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o.provides.build: CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o
 
 
 # Object files for target cs1410xtest
@@ -358,7 +406,9 @@ cs1410xtest_OBJECTS = \
 "CMakeFiles/cs1410xtest.dir/tree.cpp.o" \
 "CMakeFiles/cs1410xtest.dir/stairs.cpp.o" \
 "CMakeFiles/cs1410xtest.dir/sterling.cpp.o" \
-"CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o"
+"CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o" \
+"CMakeFiles/cs1410xtest.dir/weight.cpp.o" \
+"CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o"
 
 # External object files for target cs1410xtest
 cs1410xtest_EXTERNAL_OBJECTS =
@@ -375,9 +425,11 @@ cs1410xtest: CMakeFiles/cs1410xtest.dir/tree.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/stairs.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/sterling.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o
+cs1410xtest: CMakeFiles/cs1410xtest.dir/weight.cpp.o
+cs1410xtest: CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o
 cs1410xtest: CMakeFiles/cs1410xtest.dir/build.make
 cs1410xtest: CMakeFiles/cs1410xtest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable cs1410xtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable cs1410xtest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cs1410xtest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -397,6 +449,8 @@ CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/tree.cpp.o.requi
 CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/stairs.cpp.o.requires
 CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/sterling.cpp.o.requires
 CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o.requires
+CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/weight.cpp.o.requires
+CMakeFiles/cs1410xtest.dir/requires: CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o.requires
 
 .PHONY : CMakeFiles/cs1410xtest.dir/requires
 
@@ -405,6 +459,6 @@ CMakeFiles/cs1410xtest.dir/clean:
 .PHONY : CMakeFiles/cs1410xtest.dir/clean
 
 CMakeFiles/cs1410xtest.dir/depend:
-	cd /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/admin/CLionProjects/cstest/cs1410 /Users/admin/CLionProjects/cstest/cs1410 /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug /Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/admin/CLionProjects/cs1410/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/admin/CLionProjects/cs1410 /Users/admin/CLionProjects/cs1410 /Users/admin/CLionProjects/cs1410/cmake-build-debug /Users/admin/CLionProjects/cs1410/cmake-build-debug /Users/admin/CLionProjects/cs1410/cmake-build-debug/CMakeFiles/cs1410xtest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cs1410xtest.dir/depend
 

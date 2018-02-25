@@ -36,3 +36,9 @@ CMakeFiles/cs1410xtest.dir/timestable.cpp.o: ../timestable.cpp
 CMakeFiles/cs1410xtest.dir/tree.cpp.o: ../main.h
 CMakeFiles/cs1410xtest.dir/tree.cpp.o: ../tree.cpp
 
+CMakeFiles/cs1410xtest.dir/weight.cpp.o: ../weight.cpp
+CMakeFiles/cs1410xtest.dir/weight.cpp.o: ../weight.h
+
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o: ../weight.h
+CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o: ../weight_functions.cpp
+

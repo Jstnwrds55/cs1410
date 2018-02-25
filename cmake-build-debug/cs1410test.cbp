@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug"/>
+				<Option working_dir="/Users/admin/CLionProjects/cs1410/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug"/>
+				<Option working_dir="/Users/admin/CLionProjects/cs1410/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug"/>
+				<Option working_dir="/Users/admin/CLionProjects/cs1410/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cs1410xtest">
-				<Option output="/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/cs1410xtest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug"/>
+				<Option output="/Users/admin/CLionProjects/cs1410/cmake-build-debug/cs1410xtest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/admin/CLionProjects/cs1410/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs1410xtest"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs1410xtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cs1410xtest/fast">
-				<Option output="/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/cs1410xtest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug"/>
+				<Option output="/Users/admin/CLionProjects/cs1410/cmake-build-debug/cs1410xtest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/admin/CLionProjects/cs1410/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,56 +73,65 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs1410xtest/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cstest/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs1410xtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/admin/CLionProjects/cs1410/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/forloops.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/forloops.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/guess.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/guess.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/main.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/main.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/main.h">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/main.h">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/pyramid.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/pyramid.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/roots2.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/roots2.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/scores.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/scores.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/stairs.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/stairs.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/sterling.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/sterling.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/sterling.h">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/sterling.h">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/sterlyboi.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/sterlyboi.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/temp.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/temp.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/timestable.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/timestable.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/tree.cpp">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/tree.cpp">
 			<Option target="cs1410xtest"/>
 		</Unit>
-		<Unit filename="/Users/admin/CLionProjects/cstest/cs1410/CMakeLists.txt">
+		<Unit filename="/Users/admin/CLionProjects/cs1410/weight.cpp">
+			<Option target="cs1410xtest"/>
+		</Unit>
+		<Unit filename="/Users/admin/CLionProjects/cs1410/weight.h">
+			<Option target="cs1410xtest"/>
+		</Unit>
+		<Unit filename="/Users/admin/CLionProjects/cs1410/weight_functions.cpp">
+			<Option target="cs1410xtest"/>
+		</Unit>
+		<Unit filename="/Users/admin/CLionProjects/cs1410/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

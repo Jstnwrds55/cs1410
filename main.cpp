@@ -8,7 +8,21 @@
 #include <iomanip>
 using namespace std;
 
+double average(double scores[], int size) {
+    double total = 0;
+    for (int x = 0; x < size; x++) {
+        total += scores[x];
+    }
+
+    return total / size;
+}
+
 int main() {
+
+    double arr[] = {96, 78, 86, 100, 87};
+    int size = 5;
+    cout << average(arr, size);
+
 
     while (true) {
 
@@ -22,6 +36,8 @@ int main() {
         cout << setw(15) << left << "roots2" << "roots 2 program\n";
         cout << setw(15) << left << "guess" << "guessing game program\n";
         cout << setw(15) << left << "stairs" << "stair maker program\n";
+        cout << setw(15) << left << "sterling" << "sterling program\n";
+        cout << setw(15) << left << "weight" << "weight program\n";
         cout << "\nEnter the program you would like to run or press e to quit: ";
         cin >> choice;
 
@@ -47,7 +63,10 @@ int main() {
             stairs();
         } else if (choice == "sterling") {
             sterlyboi();
+        } else if (choice == "weight") {
+            weightFunc();
         }
+
     }
 
 }

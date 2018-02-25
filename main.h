@@ -15,5 +15,6 @@ void guess();
 void tree();
 void stairs();
 void sterlyboi();
+void weightFunc();
 
 #endif //CS1410TEST_ROOTS_H

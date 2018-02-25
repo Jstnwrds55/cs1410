@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cs1410xtest.dir/stairs.cpp.o"
   "CMakeFiles/cs1410xtest.dir/sterling.cpp.o"
   "CMakeFiles/cs1410xtest.dir/sterlyboi.cpp.o"
+  "CMakeFiles/cs1410xtest.dir/weight.cpp.o"
+  "CMakeFiles/cs1410xtest.dir/weight_functions.cpp.o"
   "cs1410xtest.pdb"
   "cs1410xtest"
 )
